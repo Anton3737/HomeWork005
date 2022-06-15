@@ -11,7 +11,7 @@ public class Premium {
         double vsegoVar = 0;    //  сума остаточної ЗП
         double sumPrem = 0;     //  сума премії
         Scanner in = new Scanner(System.in);
-        System.out.println("Ведіть Ваш стаж роботи: ");
+        System.out.println("Введіть Ваш стаж роботи: ");
         int stazhVar = in.nextInt();    //   приймає суму стажу роботи
         System.out.println("Введіть суму Вашої заробітної плати: ");
         int okladVar = in.nextInt();    // приймає існуючу суму заробітної плати
